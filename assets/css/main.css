@@ -4849,7 +4849,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 -----------------------------*/
 
 .demo__charity {
-    padding-top: 7.5rem !important;
+    padding-top: 9.5rem !important;
 }
 
 .demo__charity .btn_vdo_default {
@@ -7229,25 +7229,19 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     transition: 0.35s cubic-bezier(0.65, 0.05, 0.36, 1) !important;
 }
 
-.save__nature .item__nature:first-of-type .items_serv .icon--top {
-    background-color: #3c7ff1;
-}
+.save__nature .item__nature:first-of-type .items_serv .icon--top {}
 
 .save__nature .item__nature:first-of-type .items_serv .icon--top::before {
     background: linear-gradient(rgba(60, 127, 241, 0.15), rgba(60, 127, 241, 0));
 }
 
-.save__nature .item__nature:nth-of-type(2) .items_serv .icon--top {
-    background-color: #f74c58;
-}
+.save__nature .item__nature:nth-of-type(2) .items_serv .icon--top {}
 
 .save__nature .item__nature:nth-of-type(2) .items_serv .icon--top::before {
     background: linear-gradient(rgba(247, 76, 88, 0.15), rgba(247, 76, 88, 0));
 }
 
-.save__nature .item__nature:nth-of-type(3) .items_serv .icon--top {
-    background-color: #f7cc62;
-}
+.save__nature .item__nature:nth-of-type(3) .items_serv .icon--top {}
 
 .save__nature .item__nature:nth-of-type(3) .items_serv .icon--top::before {
     background: linear-gradient(rgba(247, 204, 98, 0.15), rgba(247, 204, 98, 0));
@@ -8670,29 +8664,17 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     height: 22px !important;
 }
 
-.feature__demo4 .item__nature:first-of-type .icon--top {
-    background-color: #6f5fa6 !important;
-}
+.feature__demo4 .item__nature:first-of-type .icon--top {}
 
-.feature__demo4 .item__nature:nth-of-type(2) .icon--top {
-    background-color: #3c7ff1 !important;
-}
+.feature__demo4 .item__nature:nth-of-type(2) .icon--top {}
 
-.feature__demo4 .item__nature:nth-of-type(3) .icon--top {
-    background-color: #165df5 !important;
-}
+.feature__demo4 .item__nature:nth-of-type(3) .icon--top {}
 
-.feature__demo4 .item__nature:nth-of-type(4) .icon--top {
-    background-color: #f74c58 !important;
-}
+.feature__demo4 .item__nature:nth-of-type(4) .icon--top {}
 
-.feature__demo4 .item__nature:nth-of-type(5) .icon--top {
-    background-color: #f7cc62 !important;
-}
+.feature__demo4 .item__nature:nth-of-type(5) .icon--top {}
 
-.feature__demo4 .item__nature:nth-of-type(6) .icon--top {
-    background-color: #ff5593 !important;
-}
+.feature__demo4 .item__nature:nth-of-type(6) .icon--top {}
 
 
 /*-----------------------------
