@@ -23638,5 +23638,9 @@ html:not(.no-js) [data-aos="fade-up"] {
     padding-top: 340px;
 }
 
+.img-fluid {
+    margin-top: 25px;
+}
+
 
 /*# sourceMappingURL=main.css.map */
