@@ -349,7 +349,7 @@ img {
 .logo img {
     vertical-align: bottom;
     margin-right: 0.5rem;
-    width: 27px;
+    width: 75px;
 }
 
 
@@ -3507,8 +3507,9 @@ header .navbar .navbar-brand {
 
 header .navbar .navbar-brand .logo {
     vertical-align: bottom;
+    padding-top: 5px;
     margin-right: 0.5rem;
-    width: 27px;
+    width: 75px;
 }
 
 header .navbar .navbar-collapse {
@@ -3936,7 +3937,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 -----------------------------*/
 
 .header_ch_left .navbar-collapse {
-    margin-left: 6.25rem;
+    margin-left: 18.25rem;
 }
 
 .header_ch_left .navbar-collapse .nav-item .nav-link {
@@ -4720,6 +4721,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
     font-size: 1rem;
     font-weight: 400;
     margin-bottom: 1.875rem;
+    text-align: justify;
 }
 
 .banner_title .tio {
